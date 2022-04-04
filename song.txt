@@ -1,3 +1,4 @@
 text of my favourite song
 
 second half of my favourite song
+another line of text from a branch feature
